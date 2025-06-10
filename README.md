@@ -1,25 +1,64 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend-Focused Full Stack Developer | AI Tools | MERN | GPT APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01pritam&label=Profile%20views&color=0e75b6&style=flat" alt="01pritam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01pritam" alt="01pritam" /></a> </p>
-
-- 🔭 I’m currently working on **React Js**
-
-- 🌱 I’m currently learning **Next Js , TypeScript**
-
-- 📫 How to reach me **em.pritamkr@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=01pritam&label=Profile%20views&color=0e75b6&style=flat" alt="01pritam" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=01pritam&show_icons=true&locale=en&layout=compact" alt="01pritam" /></p>
+### 🔭 Currently Working On:
+- AI Interview Agent using OpenAI API, React, Node.js
+- Resume Parser & Job Matching Tool (full stack)
+- Building a dynamic portfolio & CI/CD integrated projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01pritam&show_icons=true&locale=en" alt="01pritam" /></p>
+### 🌱 Currently Exploring:
+- Next.js & TypeScript for production-ready frontend
+- Deployment with Render, Vercel, GitHub Actions (CI/CD)
+- Real-world product workflows and startup integrations
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01pritam&" alt="01pritam" /></p>
+### 🧠 I Work With:
+- Frontend: `React`, `TailwindCSS`, `HTML`, `CSS`, `JavaScript`
+- Backend: `Node.js`, `Express`, `MongoDB`, `JWT`, `Postman`
+- AI/ML APIs: `OpenAI`, `RESTful APIs`
+- Tools: `Git`, `Postman`, `Figma`, `Render`, `Vercel`
+
+### 📫 Reach Me:
+- Email: **em.pritamkr@gmail.com**
+- LinkedIn: [Pritam Kumar](https://www.linkedin.com/in/pritam-k/)
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=01pritam&theme=onedark" alt="trophies"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=01pritam&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01pritam&show_icons=true&locale=en" alt="stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01pritam&" alt="streak-stats" /></p>
